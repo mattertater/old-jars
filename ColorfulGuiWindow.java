@@ -10,7 +10,7 @@ import java.util.Random;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-public class ColorfulGUIWindow {
+public class ColorfulGuiWindow {
     public static void main(String[] args) {
         JFrame theGUI = new JFrame();
         theGUI.setTitle("Matt's Colorful Grid");
